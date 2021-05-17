@@ -12,3 +12,6 @@
 * Angle brackets indicate variable parts of the commands.
 * Round brackets indicate optional parameters.
 * Square brackets are to be written as-is.
+
+## Logging
+The scope for the `DEBUG` environment variable is `rx-irc:bot:fun`.

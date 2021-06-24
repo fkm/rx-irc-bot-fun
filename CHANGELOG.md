@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/rx-irc/bot-fun/compare/v2.0.0...v3.0.0) (2021-06-24)
+
+
+### Features
+
+* switch to new client ([17fa1e5](https://github.com/rx-irc/bot-fun/commit/17fa1e5fd76055e9b268b433038850f6792ae4bc))
+
+
+### BREAKING CHANGES
+
+* This needs a different co-dependency.
+
 # [2.0.0](https://github.com/rx-irc/bot-fun/compare/v1.0.0...v2.0.0) (2021-05-17)
 
 
